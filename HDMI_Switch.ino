@@ -430,7 +430,7 @@ void selectPort(int port)
 
   // Get the current port and figure out how many to advance
   int steps = port - getCurrentPort();
-  if (steps < 0) {
+  if (steps <= 0) {
     steps += 4;
   }
 
