@@ -25,5 +25,9 @@ Part 1:
 <a href="https://youtu.be/MIKmx8QKb9U" target="_blank"><img src="http://img.youtube.com/vi/MIKmx8QKb9U/0.jpg" 
 alt="Voice and iPhone Controlled HDMI Switch!?! (Part 1)" width="480" height="360" border="10" /></a>
 
+Part 2:
+
+Coming soon, the rebuild. Be sure to subscribe to the YouTube channel and click the bell icon to be notified when it comes out.
+
 ## Schematic
 ![HDMI Switch Circuit.png](HDMI%20Switch%20Circuit.png?raw=true)
