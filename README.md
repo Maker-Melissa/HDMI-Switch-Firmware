@@ -18,3 +18,6 @@ To install, add http://arduino.esp8266.com/stable/package_esp8266com_index.json 
 
 ## Updating Wirelessly (after you have it configured)
 I like make the upload Verbose under Preferences, copy the file name ending with .ino.bin mentioned in the output right before it errors over to a non-temp directory. After the initial upload and after configuring to get on WiFi, go to http://[Name you gave Board]/firmware, type in the username and password you gave it.  Select that file from you copied and upload it. I believe there are less messy ways to do this, but it doesn't require any extra software.
+
+## Schematic
+![HDMI Switch Circuit.png](HDMI%20Switch%20Circuit.png?raw=true)
