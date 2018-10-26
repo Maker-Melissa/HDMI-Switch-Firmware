@@ -1,5 +1,5 @@
 # HDMI-Switch-Firmware
-Firmware for my Smart House HDMI Switch
+Firmware for my Smart House HDMI Switch. This hack allows for voice and phone control of the RocketFish HDMI Switch, which can be purchased off eBay pretty cheaply. It requires an openHAB setup with MQTT to work correctly. For voice control, an Alexa device is required. For a demonstration, check out the Youtube video at the bottom.
 
 By Maker Melissa
 https://makermelissa.com/
