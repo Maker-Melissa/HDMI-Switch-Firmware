@@ -1,5 +1,5 @@
 # HDMI-Switch-Firmware
-Firmware for my Smart House HDMI Switch. This hack allows for voice and phone control of the RocketFish HDMI Switch, which can be purchased off eBay pretty cheaply. It requires an openHAB setup with MQTT to work correctly. For voice control, an Alexa device is required. For a demonstration, check out the Youtube video at the bottom.
+Firmware for my Smart House HDMI Switch. This hack allows for voice and phone control of the RocketFish HDMI Switch, which can be purchased off eBay pretty cheaply. It requires an openHAB setup with MQTT to work correctly. For voice control, an Alexa device is required. For a demonstration, check out the YouTube video at the bottom.
 
 By Maker Melissa
 https://makermelissa.com/
@@ -19,7 +19,7 @@ To install, add http://arduino.esp8266.com/stable/package_esp8266com_index.json 
 ## Updating Wirelessly (after you have it configured)
 I like make the upload Verbose under Preferences, copy the file name ending with .ino.bin mentioned in the output right before it errors over to a non-temp directory. After the initial upload and after configuring to get on WiFi, go to http://[Name you gave Board]/firmware, type in the username and password you gave it.  Select that file from you copied and upload it. I believe there are less messy ways to do this, but it doesn't require any extra software.
 
-## Related Youtube Videos
+## Related YouTube Videos
 Part 1:
 
 <a href="https://youtu.be/MIKmx8QKb9U" target="_blank"><img src="http://img.youtube.com/vi/MIKmx8QKb9U/0.jpg" 
